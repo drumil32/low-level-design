@@ -1,5 +1,4 @@
 package Observer;
-import Observer.*;
 
 public class NetRunRateDisplay implements Observer {
     @Override

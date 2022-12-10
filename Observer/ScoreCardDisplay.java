@@ -1,5 +1,4 @@
 package Observer;
-import Observer.*;
 
 public class ScoreCardDisplay implements Observer{
 

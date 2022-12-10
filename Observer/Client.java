@@ -1,6 +1,4 @@
 package Observer;
-
-import Observer.*;
 import java.util.*;
 
 public class Client {

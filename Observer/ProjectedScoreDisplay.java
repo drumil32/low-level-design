@@ -1,7 +1,5 @@
 package Observer;
 
-import Observer.*;
-
 public class ProjectedScoreDisplay implements Observer {
 
     @Override
