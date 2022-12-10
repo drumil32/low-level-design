@@ -1,6 +1,6 @@
 package Adapter;
 
-import Adapter.*;
+ 
 import java.util.*;
 
 // client who knows all three class
